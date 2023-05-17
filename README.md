@@ -6,11 +6,11 @@ This is currently the first sprint of the app there plans to continue it with ne
 
 The project builds around Firebase.
 It uses : 
--Authentication
--FireStore Database
--Storage
--Cloud functions(For Notifications, and Database consistency functions)
--Google Maps
+- Authentication
+- FireStore Database
+- Storage
+- Cloud functions(For Notifications, and Database consistency functions)
+- Google Maps
 
 # Setting up
 The project requires Blaze plan to use Cloud Functions.
