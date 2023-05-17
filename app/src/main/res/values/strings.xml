@@ -1,0 +1,62 @@
+<resources>
+
+
+    <!-- Common -->
+    <string name="app_name">Our Trips</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="full_name">Full name</string>
+    <string name="cancel">Cancel</string>
+    <string name="signup">Sign Up</string>
+    <string name="signout">Sign Out</string>
+    <string name="delete_user">Delete User</string>
+    <string name="forgotten_password">Forgot Password?</string>
+    <string name="confirm">Confirm</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="send_reset_password_email">Send reset password email</string>
+    <!-- Errors -->
+    <string name="try_again">Try again</string>
+    <string name="username_error">Please add a Username</string>
+    <string name="generic_error">Something wrong happened. Please try again.</string>
+    <string name="email_error">Wrong email</string>
+    <string name="reset_password_error">Please add an email!</string>
+    <string name="password_error">Short password (min 6character)</string>
+    <string name="password_match_error">The passwords do not match</string>
+    <!-- BottomBar text -->
+    <string name="home_screen">Home</string>
+    <string name="map_screen">Map</string>
+    <string name="post_screen">Post</string>
+    <string name="profile_screen">Profile</string>
+
+    <!-- Profile screen -->
+    <string name="friends">Friends</string>
+    <string name="log_out">Log out</string>
+    <string name="profile_edit">Edit</string>
+    <string name="profile_posts">My Posts</string>
+    <string name="profilePicture_edit">Edit Profile Pic</string>
+    <string name="profilePicture_remove">Remove Profile Pic</string>
+    <string name="bio">Bio</string>
+    <string name="save">Save</string>
+
+    <!-- Post Screen -->
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="post">Post</string>
+    <string name="areyousure">Are you sure?</string>
+    <string name="setlocationalert">Please set a location for the photo</string>
+
+    <!-- Home Screen -->
+    <string name="add_user_to_friends">Add to Friends</string>
+    <string name="home_screen_to_see_more">To see more post add friends</string>
+
+    <!-- Friends Screen -->
+    <string name="friends_search_bar_text">Add or search friends</string>
+
+    <!-- Refused permission -->
+    <string name="refused_location_permission">You will have to set the location manually for the photos</string>
+    <string name="refused_notification_permission">You will not receive notifications</string>
+
+</resources>
