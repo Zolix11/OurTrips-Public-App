@@ -29,3 +29,29 @@ Follow these steps to add the Firebase Android configuration file to Make it So
 - [Material-3](https://developer.android.com/jetpack/compose/designsystems/material3) the app reflects the current users style-theme
 - [Paging 3](https://developer.android.com/topic/libraries/architecture/paging/v3-overview) used for pagination on the homescreen
 - [Dagger-Hilt](https://developer.android.com/training/dependency-injection/hilt-android) used for dependecy injection
+
+# Screenshots
+
+![Alt text](screenshots/Screenshot_1685881112.png)
+![Alt text](screenshots/Screenshot_1685881112.png)
+![Alt text](screenshots/Screenshot_1685881116.png)
+![Alt text](screenshots/Screenshot_1685881122.png)
+![Alt text](screenshots/Screenshot_1685881127.png)
+![Alt text](screenshots/Screenshot_1685881153.png)
+![Alt text](screenshots/Screenshot_1685881228.png)
+![Alt text](screenshots/Screenshot_1685881387.png)
+![Alt text](screenshots/Screenshot_1685881399.png)
+![Alt text](screenshots/Screenshot_1685881453.png)
+![Alt text](screenshots/Screenshot_1685881453.png)
+![Alt text](screenshots/Screenshot_1685881483.png)
+![Alt text](screenshots/Screenshot_1685881497.png)
+![Alt text](screenshots/Screenshot_1685881587.png)
+![Alt text](screenshots/Screenshot_1685881612.png)
+![Alt text](screenshots/Screenshot_1685881642.png)
+![Alt text](screenshots/Screenshot_1685881647.png)
+![Alt text](screenshots/Screenshot_1685881653.png)
+![Alt text](screenshots/Screenshot_1685881683.png)
+![Alt text](screenshots/Screenshot_1685892924.png)
+![Alt text](screenshots/photo_2023-06-04_17-41-45.jpg)
+![Alt text](screenshots/photo_2023-06-04_17-41-57.jpg)
+![Alt text](screenshots/photo_2023-06-04_17-41-57.jpg)
